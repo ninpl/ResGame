@@ -1,8 +1,8 @@
 # ResGame
 
-An updated collection of useful resources to design, develop and marketing games. 05/09/2016.
+Una colección actualizada de recursos útiles para diseñar, desarrollar y comercializar juegos. 05/09/2016.
 
-To add, remove or change things on the list: please submit a pull request.
+Para añadir, eliminar o cambiar cosas de la lista: envíe un pull.
 
 ## Art
 * [Lots of icons from iOS apps](http://iosicongallery.com).
